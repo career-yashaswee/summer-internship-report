@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{titling}
+\usepackage{tocloft}
+\usepackage[section]{placeins}
+\usepackage{ragged2e}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage[acronym]{glossaries}
+\usepackage{microtype}
+\usepackage{chngcntr}
+\makeglossaries
+\geometry{left=1cm, right=1cm, top=1cm, bottom=2cm}
+
+\begin{document}
+    \input{cover/cover}
+    \pagebreak
+    \input{declaration.tex}
+    \pagebreak
+    \tableofcontents
+    \pagebreak
+    \input{certificate}
+    \pagebreak
+    \input{chapters/chapters}
+    \pagebreak
+\end{document}

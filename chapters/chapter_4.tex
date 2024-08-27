@@ -1,0 +1,140 @@
+\section{Chapter 4 - MERN Stack Implementation}
+\subsection{Introduction to MERN Stack}
+
+The \textbf{MERN stack} is a powerful combination of technologies for building modern web applications. It comprises \textbf{MongoDB}, \textbf{Express.js}, \textbf{React.js}, and \textbf{Node.js}, providing a full-stack solution for developing robust, scalable applications. This stack leverages JavaScript throughout, from the client-side to the server-side, facilitating seamless integration and rapid development. The \textbf{MERN stack} is particularly suited for creating single-page applications with a dynamic user interface, offering a cohesive and efficient development experience.
+
+\subsection{Backend Development with Node.js and Express.js}
+
+The backend of our project is built using \textbf{Node.js} and \textbf{Express.js}. \textbf{Node.js} is a powerful JavaScript runtime that allows for asynchronous processing and efficient handling of multiple requests. It is particularly well-suited for applications that require real-time capabilities and scalable performance. \textbf{Express.js} is a lightweight web application framework that sits on top of Node.js, simplifying the process of building and managing RESTful APIs.
+
+In our implementation, we utilized \textbf{Express.js} to design a robust REST API for managing user interactions and data processing. The API endpoints were thoroughly tested using \textbf{Postman}, ensuring that they functioned as expected and adhered to our design specifications. For session management and security, we employed \textbf{JWT (JSON Web Tokens)} for issuing and verifying tokens, along with cookies for secure session management. This approach ensures that user sessions are protected against unauthorized access and tampering.
+
+We used several key dependencies to enhance the functionality and security of our backend:
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Dependency} & \textbf{Description} \\
+\hline
+\textbf{@google-cloud} & These Google Cloud libraries are essential for integrating advanced AI capabilities such as speech recognition, text-to-speech synthesis, and storage management. \\
+\hline
+\textbf{dotenv} & Used for managing environment variables, it securely stores sensitive information such as API keys and database credentials. \\
+\hline
+\textbf{express-rate-limit} & Provides rate limiting to protect the API from abuse by limiting the number of requests from a single IP address. \\
+\hline
+\textbf{jsonwebtoken} and \textbf{bcrypt} & Facilitate secure authentication and encryption. JWTs are used for managing user sessions, while bcrypt is used for hashing passwords. \\
+\hline
+\textbf{mongoose} and \textbf{mongodb} & Mongoose is an ODM (Object Data Modeling) library that provides a schema-based solution to model our application data. MongoDB serves as the database for storing application data. \\
+\hline
+\textbf{multer} & Handles file uploads in our API requests, supporting various file types such as PDFs and images. \\
+\hline
+\textbf{cors} & Manages Cross-Origin Resource Sharing (CORS) to allow or restrict resource access from different domains. \\
+\hline
+\end{tabular}
+\caption{Dependencies and Their Roles}
+\label{table:dependencies}
+\end{table}
+
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8cm]{mern_stack_architecture.png}
+\caption{Architecture of the MERN Stack Application}
+\label{fig:mern_architecture}
+\end{figure}
+
+\subsection{Frontend Development with React.js}
+
+On the frontend, \textbf{React.js} was employed to build a dynamic and responsive user interface. \textbf{React.js} is a JavaScript library for building user interfaces, known for its component-based architecture and efficient rendering through a virtual DOM. 
+
+To manage forms and validation, we integrated \textbf{React Hook Form} with \textbf{Zod} for schema validation. \textbf{React Hook Form} simplifies form handling by reducing the need for boilerplate code and improving performance, while \textbf{Zod} provides a robust validation schema to ensure data integrity and enforce constraints. 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8cm]{react_component_structure.png}
+\caption{Component Structure in React Application}
+\label{fig:react_components}
+\end{figure}
+
+The user interface was further enhanced using \textbf{shadcn} for UI components and \textbf{Framer Motion} for animations. \textbf{shadcn} offers a set of accessible and customizable UI components, while \textbf{Framer Motion} adds sophisticated animations, creating a visually appealing and interactive experience for users.
+
+\subsection{Database Design and Management}
+
+The application leverages \textbf{MongoDB}, a NoSQL database known for its flexibility and scalability. MongoDB's document-oriented data model allows for dynamic schema design, making it an ideal choice for applications with evolving data requirements.
+
+For efficient querying and data aggregation, we employed the \textbf{MongoDB Aggregation Pipeline}. This feature enables complex data processing tasks, such as filtering, sorting, and grouping, to be performed directly within the database, optimizing performance and reducing the load on the application server.
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|}
+\hline
+\textbf{Feature} & \textbf{Description} \\
+\hline
+\textbf{Data Model} & Document-oriented \\
+\textbf{Aggregation Pipeline} & Allows for complex data processing \\
+\textbf{Scalability} & High scalability and performance \\
+\hline
+\end{tabular}
+\caption{Database Design Features}
+\label{tab:database_features}
+\end{table}
+
+\subsection{Deployment and Hosting}
+
+For deployment and hosting, we utilized \textbf{Render.com} for backend services and \textbf{Vercel.com} for frontend hosting. \textbf{Render.com} offers a streamlined platform for deploying web applications and APIs, providing automatic scaling and continuous deployment features. \textbf{Vercel.com} specializes in frontend deployment, ensuring fast and reliable delivery of static assets and dynamic content.
+
+We used \textbf{Google Cloud Storage Buckets} for storing and managing user-uploaded resumes and other files. The integration with \textbf{Google Cloud} provided a scalable and secure solution for file storage, ensuring high availability and durability.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.8cm]{deployment_architecture.png}
+\caption{Deployment Architecture of the Application}
+\label{fig:deployment_architecture}
+\end{figure}
+
+In addition to the deployment platforms, we followed best practices for \textbf{API abuse management} using \textbf{Helmet}, a middleware for securing HTTP headers in Express applications. \textbf{Helmet} helps mitigate various security vulnerabilities by setting appropriate HTTP headers.
+
+Credentials for various services were securely stored in a \texttt{.env} file, adhering to best practices for environment variable management and ensuring sensitive information is not exposed.
+
+\subsection{Code Snippets}
+
+Here is an example of how we used \textbf{JWT} for session management in our \textbf{Node.js} application:
+
+\begin{verbatim}
+const jwt = require('jsonwebtoken');
+
+const generateToken = (user) => {
+    return jwt.sign({ id: user._id }, process.env.JWT_SECRET, { expiresIn: '1h' });
+};
+
+const authenticateToken = (req, res, next) => {
+    const token = req.headers['authorization'];
+    if (token == null) return res.sendStatus(401);
+
+    jwt.verify(token, process.env.JWT_SECRET, (err, user) => {
+        if (err) return res.sendStatus(403);
+        req.user = user;
+        next();
+    });
+};
+\end{verbatim}
+
+This snippet demonstrates how tokens are generated and verified, ensuring secure user authentication and session management.
+
+\begin{verbatim}
+const express = require('express');
+const app = express();
+
+app.use(helmet());
+
+app.get('/api/data', authenticateToken, (req, res) => {
+    res.json({ message: 'Secure data' });
+});
+\end{verbatim}
+
+In this snippet, \textbf{Helmet} is used to enhance API security by setting various HTTP headers.
+
+
+
+

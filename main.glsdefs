@@ -1,0 +1,1428 @@
+\glsdefs@newdocentry{AI}%
+{%
+name={\acronymfont {\glsentryshort {AI}}},%
+sort={AI},%
+type={acronym},%
+first={AI},%
+firstplural={AIs},%
+text={AI},%
+plural={AIs},%
+description={Artificial Intelligence},%
+descriptionplural={Artificial Intelligence},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Artificial Intelligence},%
+longplural={Artificial Intelligences},%
+short={AI},%
+shortplural={AIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{API}%
+{%
+name={\acronymfont {\glsentryshort {API}}},%
+sort={API},%
+type={acronym},%
+first={API},%
+firstplural={APIs},%
+text={API},%
+plural={APIs},%
+description={Application Programming Interface},%
+descriptionplural={Application Programming Interface},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Application Programming Interface},%
+longplural={Application Programming Interfaces},%
+short={API},%
+shortplural={APIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CAPT}%
+{%
+name={\acronymfont {\glsentryshort {CAPT}}},%
+sort={CAPT},%
+type={acronym},%
+first={CAPT},%
+firstplural={CAPTs},%
+text={CAPT},%
+plural={CAPTs},%
+description={Computer-Assisted Pronunciation Training},%
+descriptionplural={Computer-Assisted Pronunciation Training},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Computer-Assisted Pronunciation Training},%
+longplural={Computer-Assisted Pronunciation Trainings},%
+short={CAPT},%
+shortplural={CAPTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CGPA}%
+{%
+name={\acronymfont {\glsentryshort {CGPA}}},%
+sort={CGPA},%
+type={acronym},%
+first={CGPA},%
+firstplural={CGPAs},%
+text={CGPA},%
+plural={CGPAs},%
+description={Cumulative Grade Point Average},%
+descriptionplural={Cumulative Grade Point Average},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cumulative Grade Point Average},%
+longplural={Cumulative Grade Point Averages},%
+short={CGPA},%
+shortplural={CGPAs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{HR}%
+{%
+name={\acronymfont {\glsentryshort {HR}}},%
+sort={HR},%
+type={acronym},%
+first={HR},%
+firstplural={HRs},%
+text={HR},%
+plural={HRs},%
+description={Human Resources},%
+descriptionplural={Human Resources},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Human Resources},%
+longplural={Human Resourcess},%
+short={HR},%
+shortplural={HRs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IT}%
+{%
+name={\acronymfont {\glsentryshort {IT}}},%
+sort={IT},%
+type={acronym},%
+first={IT},%
+firstplural={ITs},%
+text={IT},%
+plural={ITs},%
+description={Information Technology},%
+descriptionplural={Information Technology},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Information Technology},%
+longplural={Information Technologys},%
+short={IT},%
+shortplural={ITs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{JWT}%
+{%
+name={\acronymfont {\glsentryshort {JWT}}},%
+sort={JWT},%
+type={acronym},%
+first={JWT},%
+firstplural={JWTs},%
+text={JWT},%
+plural={JWTs},%
+description={JSON Web Token},%
+descriptionplural={JSON Web Token},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={JSON Web Token},%
+longplural={JSON Web Tokens},%
+short={JWT},%
+shortplural={JWTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{MERN}%
+{%
+name={\acronymfont {\glsentryshort {MERN}}},%
+sort={MERN},%
+type={acronym},%
+first={MERN},%
+firstplural={MERNs},%
+text={MERN},%
+plural={MERNs},%
+description={MongoDB, Express.js, React, Node.js},%
+descriptionplural={MongoDB, Express.js, React, Node.js},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={MongoDB, Express.js, React, Node.js},%
+longplural={MongoDB, Express.js, React, Node.jss},%
+short={MERN},%
+shortplural={MERNs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{RPO}%
+{%
+name={\acronymfont {\glsentryshort {RPO}}},%
+sort={RPO},%
+type={acronym},%
+first={RPO},%
+firstplural={RPOs},%
+text={RPO},%
+plural={RPOs},%
+description={Recruitment Process Outsourcing},%
+descriptionplural={Recruitment Process Outsourcing},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Recruitment Process Outsourcing},%
+longplural={Recruitment Process Outsourcings},%
+short={RPO},%
+shortplural={RPOs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SDK}%
+{%
+name={\acronymfont {\glsentryshort {SDK}}},%
+sort={SDK},%
+type={acronym},%
+first={SDK},%
+firstplural={SDKs},%
+text={SDK},%
+plural={SDKs},%
+description={Software Development Kit},%
+descriptionplural={Software Development Kit},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Software Development Kit},%
+longplural={Software Development Kits},%
+short={SDK},%
+shortplural={SDKs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SaaS}%
+{%
+name={\acronymfont {\glsentryshort {SaaS}}},%
+sort={SaaS},%
+type={acronym},%
+first={SaaS},%
+firstplural={SaaSs},%
+text={SaaS},%
+plural={SaaSs},%
+description={Software as a Service},%
+descriptionplural={Software as a Service},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Software as a Service},%
+longplural={Software as a Services},%
+short={SaaS},%
+shortplural={SaaSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{UI}%
+{%
+name={\acronymfont {\glsentryshort {UI}}},%
+sort={UI},%
+type={acronym},%
+first={UI},%
+firstplural={UIs},%
+text={UI},%
+plural={UIs},%
+description={User Interface},%
+descriptionplural={User Interface},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={User Interface},%
+longplural={User Interfaces},%
+short={UI},%
+shortplural={UIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{UX}%
+{%
+name={\acronymfont {\glsentryshort {UX}}},%
+sort={UX},%
+type={acronym},%
+first={UX},%
+firstplural={UXs},%
+text={UX},%
+plural={UXs},%
+description={User Experience},%
+descriptionplural={User Experience},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={User Experience},%
+longplural={User Experiences},%
+short={UX},%
+shortplural={UXs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SEO}%
+{%
+name={\acronymfont {\glsentryshort {SEO}}},%
+sort={SEO},%
+type={acronym},%
+first={SEO},%
+firstplural={SEOs},%
+text={SEO},%
+plural={SEOs},%
+description={Search Engine Optimization},%
+descriptionplural={Search Engine Optimization},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Search Engine Optimization},%
+longplural={Search Engine Optimizations},%
+short={SEO},%
+shortplural={SEOs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{KPI}%
+{%
+name={\acronymfont {\glsentryshort {KPI}}},%
+sort={KPI},%
+type={acronym},%
+first={KPI},%
+firstplural={KPIs},%
+text={KPI},%
+plural={KPIs},%
+description={Key Performance Indicator},%
+descriptionplural={Key Performance Indicator},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Key Performance Indicator},%
+longplural={Key Performance Indicators},%
+short={KPI},%
+shortplural={KPIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CRM}%
+{%
+name={\acronymfont {\glsentryshort {CRM}}},%
+sort={CRM},%
+type={acronym},%
+first={CRM},%
+firstplural={CRMs},%
+text={CRM},%
+plural={CRMs},%
+description={Customer Relationship Management},%
+descriptionplural={Customer Relationship Management},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Customer Relationship Management},%
+longplural={Customer Relationship Managements},%
+short={CRM},%
+shortplural={CRMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{TDD}%
+{%
+name={\acronymfont {\glsentryshort {TDD}}},%
+sort={TDD},%
+type={acronym},%
+first={TDD},%
+firstplural={TDDs},%
+text={TDD},%
+plural={TDDs},%
+description={Test-Driven Development},%
+descriptionplural={Test-Driven Development},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Test-Driven Development},%
+longplural={Test-Driven Developments},%
+short={TDD},%
+shortplural={TDDs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{BDD}%
+{%
+name={\acronymfont {\glsentryshort {BDD}}},%
+sort={BDD},%
+type={acronym},%
+first={BDD},%
+firstplural={BDDs},%
+text={BDD},%
+plural={BDDs},%
+description={Behavior-Driven Development},%
+descriptionplural={Behavior-Driven Development},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Behavior-Driven Development},%
+longplural={Behavior-Driven Developments},%
+short={BDD},%
+shortplural={BDDs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CI}%
+{%
+name={\acronymfont {\glsentryshort {CI}}},%
+sort={CI},%
+type={acronym},%
+first={CI},%
+firstplural={CIs},%
+text={CI},%
+plural={CIs},%
+description={Continuous Integration},%
+descriptionplural={Continuous Integration},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Continuous Integration},%
+longplural={Continuous Integrations},%
+short={CI},%
+shortplural={CIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CD}%
+{%
+name={\acronymfont {\glsentryshort {CD}}},%
+sort={CD},%
+type={acronym},%
+first={CD},%
+firstplural={CDs},%
+text={CD},%
+plural={CDs},%
+description={Continuous Deployment},%
+descriptionplural={Continuous Deployment},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Continuous Deployment},%
+longplural={Continuous Deployments},%
+short={CD},%
+shortplural={CDs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{MVC}%
+{%
+name={\acronymfont {\glsentryshort {MVC}}},%
+sort={MVC},%
+type={acronym},%
+first={MVC},%
+firstplural={MVCs},%
+text={MVC},%
+plural={MVCs},%
+description={Model-View-Controller},%
+descriptionplural={Model-View-Controller},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Model-View-Controller},%
+longplural={Model-View-Controllers},%
+short={MVC},%
+shortplural={MVCs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ORM}%
+{%
+name={\acronymfont {\glsentryshort {ORM}}},%
+sort={ORM},%
+type={acronym},%
+first={ORM},%
+firstplural={ORMs},%
+text={ORM},%
+plural={ORMs},%
+description={Object-Relational Mapping},%
+descriptionplural={Object-Relational Mapping},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Object-Relational Mapping},%
+longplural={Object-Relational Mappings},%
+short={ORM},%
+shortplural={ORMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{HTTP}%
+{%
+name={\acronymfont {\glsentryshort {HTTP}}},%
+sort={HTTP},%
+type={acronym},%
+first={HTTP},%
+firstplural={HTTPs},%
+text={HTTP},%
+plural={HTTPs},%
+description={HyperText Transfer Protocol},%
+descriptionplural={HyperText Transfer Protocol},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HyperText Transfer Protocol},%
+longplural={HyperText Transfer Protocols},%
+short={HTTP},%
+shortplural={HTTPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{HTTPS}%
+{%
+name={\acronymfont {\glsentryshort {HTTPS}}},%
+sort={HTTPS},%
+type={acronym},%
+first={HTTPS},%
+firstplural={HTTPSs},%
+text={HTTPS},%
+plural={HTTPSs},%
+description={HyperText Transfer Protocol Secure},%
+descriptionplural={HyperText Transfer Protocol Secure},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HyperText Transfer Protocol Secure},%
+longplural={HyperText Transfer Protocol Secures},%
+short={HTTPS},%
+shortplural={HTTPSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{DNS}%
+{%
+name={\acronymfont {\glsentryshort {DNS}}},%
+sort={DNS},%
+type={acronym},%
+first={DNS},%
+firstplural={DNSs},%
+text={DNS},%
+plural={DNSs},%
+description={Domain Name System},%
+descriptionplural={Domain Name System},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Domain Name System},%
+longplural={Domain Name Systems},%
+short={DNS},%
+shortplural={DNSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IP}%
+{%
+name={\acronymfont {\glsentryshort {IP}}},%
+sort={IP},%
+type={acronym},%
+first={IP},%
+firstplural={IPs},%
+text={IP},%
+plural={IPs},%
+description={Internet Protocol},%
+descriptionplural={Internet Protocol},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Internet Protocol},%
+longplural={Internet Protocols},%
+short={IP},%
+shortplural={IPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{TCP}%
+{%
+name={\acronymfont {\glsentryshort {TCP}}},%
+sort={TCP},%
+type={acronym},%
+first={TCP},%
+firstplural={TCPs},%
+text={TCP},%
+plural={TCPs},%
+description={Transmission Control Protocol},%
+descriptionplural={Transmission Control Protocol},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Transmission Control Protocol},%
+longplural={Transmission Control Protocols},%
+short={TCP},%
+shortplural={TCPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{UDP}%
+{%
+name={\acronymfont {\glsentryshort {UDP}}},%
+sort={UDP},%
+type={acronym},%
+first={UDP},%
+firstplural={UDPs},%
+text={UDP},%
+plural={UDPs},%
+description={User Datagram Protocol},%
+descriptionplural={User Datagram Protocol},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={User Datagram Protocol},%
+longplural={User Datagram Protocols},%
+short={UDP},%
+shortplural={UDPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{FTP}%
+{%
+name={\acronymfont {\glsentryshort {FTP}}},%
+sort={FTP},%
+type={acronym},%
+first={FTP},%
+firstplural={FTPs},%
+text={FTP},%
+plural={FTPs},%
+description={File Transfer Protocol},%
+descriptionplural={File Transfer Protocol},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={File Transfer Protocol},%
+longplural={File Transfer Protocols},%
+short={FTP},%
+shortplural={FTPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SSH}%
+{%
+name={\acronymfont {\glsentryshort {SSH}}},%
+sort={SSH},%
+type={acronym},%
+first={SSH},%
+firstplural={SSHs},%
+text={SSH},%
+plural={SSHs},%
+description={Secure Shell},%
+descriptionplural={Secure Shell},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Secure Shell},%
+longplural={Secure Shells},%
+short={SSH},%
+shortplural={SSHs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{JSON}%
+{%
+name={\acronymfont {\glsentryshort {JSON}}},%
+sort={JSON},%
+type={acronym},%
+first={JSON},%
+firstplural={JSONs},%
+text={JSON},%
+plural={JSONs},%
+description={JavaScript Object Notation},%
+descriptionplural={JavaScript Object Notation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={JavaScript Object Notation},%
+longplural={JavaScript Object Notations},%
+short={JSON},%
+shortplural={JSONs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{XML}%
+{%
+name={\acronymfont {\glsentryshort {XML}}},%
+sort={XML},%
+type={acronym},%
+first={XML},%
+firstplural={XMLs},%
+text={XML},%
+plural={XMLs},%
+description={eXtensible Markup Language},%
+descriptionplural={eXtensible Markup Language},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={eXtensible Markup Language},%
+longplural={eXtensible Markup Languages},%
+short={XML},%
+shortplural={XMLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CSS}%
+{%
+name={\acronymfont {\glsentryshort {CSS}}},%
+sort={CSS},%
+type={acronym},%
+first={CSS},%
+firstplural={CSSs},%
+text={CSS},%
+plural={CSSs},%
+description={Cascading Style Sheets},%
+descriptionplural={Cascading Style Sheets},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cascading Style Sheets},%
+longplural={Cascading Style Sheetss},%
+short={CSS},%
+shortplural={CSSs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{HTML}%
+{%
+name={\acronymfont {\glsentryshort {HTML}}},%
+sort={HTML},%
+type={acronym},%
+first={HTML},%
+firstplural={HTMLs},%
+text={HTML},%
+plural={HTMLs},%
+description={HyperText Markup Language},%
+descriptionplural={HyperText Markup Language},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={HyperText Markup Language},%
+longplural={HyperText Markup Languages},%
+short={HTML},%
+shortplural={HTMLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SQL}%
+{%
+name={\acronymfont {\glsentryshort {SQL}}},%
+sort={SQL},%
+type={acronym},%
+first={SQL},%
+firstplural={SQLs},%
+text={SQL},%
+plural={SQLs},%
+description={Structured Query Language},%
+descriptionplural={Structured Query Language},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Structured Query Language},%
+longplural={Structured Query Languages},%
+short={SQL},%
+shortplural={SQLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{NoSQL}%
+{%
+name={\acronymfont {\glsentryshort {NoSQL}}},%
+sort={NoSQL},%
+type={acronym},%
+first={NoSQL},%
+firstplural={NoSQLs},%
+text={NoSQL},%
+plural={NoSQLs},%
+description={Not Only SQL},%
+descriptionplural={Not Only SQL},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Not Only SQL},%
+longplural={Not Only SQLs},%
+short={NoSQL},%
+shortplural={NoSQLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CRUD}%
+{%
+name={\acronymfont {\glsentryshort {CRUD}}},%
+sort={CRUD},%
+type={acronym},%
+first={CRUD},%
+firstplural={CRUDs},%
+text={CRUD},%
+plural={CRUDs},%
+description={Create, Read, Update, Delete},%
+descriptionplural={Create, Read, Update, Delete},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Create, Read, Update, Delete},%
+longplural={Create, Read, Update, Deletes},%
+short={CRUD},%
+shortplural={CRUDs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{REST}%
+{%
+name={\acronymfont {\glsentryshort {REST}}},%
+sort={REST},%
+type={acronym},%
+first={REST},%
+firstplural={RESTs},%
+text={REST},%
+plural={RESTs},%
+description={Representational State Transfer},%
+descriptionplural={Representational State Transfer},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Representational State Transfer},%
+longplural={Representational State Transfers},%
+short={REST},%
+shortplural={RESTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SOAP}%
+{%
+name={\acronymfont {\glsentryshort {SOAP}}},%
+sort={SOAP},%
+type={acronym},%
+first={SOAP},%
+firstplural={SOAPs},%
+text={SOAP},%
+plural={SOAPs},%
+description={Simple Object Access Protocol},%
+descriptionplural={Simple Object Access Protocol},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Simple Object Access Protocol},%
+longplural={Simple Object Access Protocols},%
+short={SOAP},%
+shortplural={SOAPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{IoT}%
+{%
+name={\acronymfont {\glsentryshort {IoT}}},%
+sort={IoT},%
+type={acronym},%
+first={IoT},%
+firstplural={IoTs},%
+text={IoT},%
+plural={IoTs},%
+description={Internet of Things},%
+descriptionplural={Internet of Things},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Internet of Things},%
+longplural={Internet of Thingss},%
+short={IoT},%
+shortplural={IoTs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ML}%
+{%
+name={\acronymfont {\glsentryshort {ML}}},%
+sort={ML},%
+type={acronym},%
+first={ML},%
+firstplural={MLs},%
+text={ML},%
+plural={MLs},%
+description={Machine Learning},%
+descriptionplural={Machine Learning},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Machine Learning},%
+longplural={Machine Learnings},%
+short={ML},%
+shortplural={MLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{DL}%
+{%
+name={\acronymfont {\glsentryshort {DL}}},%
+sort={DL},%
+type={acronym},%
+first={DL},%
+firstplural={DLs},%
+text={DL},%
+plural={DLs},%
+description={Deep Learning},%
+descriptionplural={Deep Learning},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Deep Learning},%
+longplural={Deep Learnings},%
+short={DL},%
+shortplural={DLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{NLP}%
+{%
+name={\acronymfont {\glsentryshort {NLP}}},%
+sort={NLP},%
+type={acronym},%
+first={NLP},%
+firstplural={NLPs},%
+text={NLP},%
+plural={NLPs},%
+description={Natural Language Processing},%
+descriptionplural={Natural Language Processing},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Natural Language Processing},%
+longplural={Natural Language Processings},%
+short={NLP},%
+shortplural={NLPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{GPU}%
+{%
+name={\acronymfont {\glsentryshort {GPU}}},%
+sort={GPU},%
+type={acronym},%
+first={GPU},%
+firstplural={GPUs},%
+text={GPU},%
+plural={GPUs},%
+description={Graphics Processing Unit},%
+descriptionplural={Graphics Processing Unit},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Graphics Processing Unit},%
+longplural={Graphics Processing Units},%
+short={GPU},%
+shortplural={GPUs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{CPU}%
+{%
+name={\acronymfont {\glsentryshort {CPU}}},%
+sort={CPU},%
+type={acronym},%
+first={CPU},%
+firstplural={CPUs},%
+text={CPU},%
+plural={CPUs},%
+description={Central Processing Unit},%
+descriptionplural={Central Processing Unit},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Central Processing Unit},%
+longplural={Central Processing Units},%
+short={CPU},%
+shortplural={CPUs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{RAM}%
+{%
+name={\acronymfont {\glsentryshort {RAM}}},%
+sort={RAM},%
+type={acronym},%
+first={RAM},%
+firstplural={RAMs},%
+text={RAM},%
+plural={RAMs},%
+description={Random Access Memory},%
+descriptionplural={Random Access Memory},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Random Access Memory},%
+longplural={Random Access Memorys},%
+short={RAM},%
+shortplural={RAMs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{SSD}%
+{%
+name={\acronymfont {\glsentryshort {SSD}}},%
+sort={SSD},%
+type={acronym},%
+first={SSD},%
+firstplural={SSDs},%
+text={SSD},%
+plural={SSDs},%
+description={Solid-State Drive},%
+descriptionplural={Solid-State Drive},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Solid-State Drive},%
+longplural={Solid-State Drives},%
+short={SSD},%
+shortplural={SSDs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{BI}%
+{%
+name={\acronymfont {\glsentryshort {BI}}},%
+sort={BI},%
+type={acronym},%
+first={BI},%
+firstplural={BIs},%
+text={BI},%
+plural={BIs},%
+description={Business Intelligence},%
+descriptionplural={Business Intelligence},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Business Intelligence},%
+longplural={Business Intelligences},%
+short={BI},%
+shortplural={BIs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{ETL}%
+{%
+name={\acronymfont {\glsentryshort {ETL}}},%
+sort={ETL},%
+type={acronym},%
+first={ETL},%
+firstplural={ETLs},%
+text={ETL},%
+plural={ETLs},%
+description={Extract, Transform, Load},%
+descriptionplural={Extract, Transform, Load},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Extract, Transform, Load},%
+longplural={Extract, Transform, Loads},%
+short={ETL},%
+shortplural={ETLs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{OOP}%
+{%
+name={\acronymfont {\glsentryshort {OOP}}},%
+sort={OOP},%
+type={acronym},%
+first={OOP},%
+firstplural={OOPs},%
+text={OOP},%
+plural={OOPs},%
+description={Object-Oriented Programming},%
+descriptionplural={Object-Oriented Programming},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Object-Oriented Programming},%
+longplural={Object-Oriented Programmings},%
+short={OOP},%
+shortplural={OOPs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{MVP}%
+{%
+name={\acronymfont {\glsentryshort {MVP}}},%
+sort={MVP},%
+type={acronym},%
+first={MVP},%
+firstplural={MVPs},%
+text={MVP},%
+plural={MVPs},%
+description={Minimum Viable Product},%
+descriptionplural={Minimum Viable Product},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Minimum Viable Product},%
+longplural={Minimum Viable Products},%
+short={MVP},%
+shortplural={MVPs},%
+counter={page},%
+parent={},%
+%
+}%
+
