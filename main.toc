@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {7.1}Introduction to MERN Stack}{11}{}%
 \contentsline {subsection}{\numberline {7.2}Backend Development with Node.js and Express.js}{11}{}%
 \contentsline {subsection}{\numberline {7.3}Frontend Development with React.js}{11}{}%
-\contentsline {subsection}{\numberline {7.4}Database Design and Management}{12}{}%
+\contentsline {subsection}{\numberline {7.4}Database Design and Management}{11}{}%
 \contentsline {subsection}{\numberline {7.5}Deployment and Hosting}{12}{}%
 \contentsline {subsection}{\numberline {7.6}Code Snippets}{12}{}%
 \contentsline {section}{\numberline {8}Chapter 5 - AI Integration in the Project}{14}{}%
@@ -49,24 +49,24 @@
 \contentsline {subsection}{\numberline {9.12}Conclusion}{17}{}%
 \contentsline {section}{\numberline {10}Chapter 7 - Learning Outcomes}{18}{}%
 \contentsline {subsection}{\numberline {10.1}Technical Skills Acquired}{18}{}%
-\contentsline {subsection}{\numberline {10.2}Problem-Solving and Debugging}{19}{}%
-\contentsline {subsection}{\numberline {10.3}Collaboration and Communication}{19}{}%
-\contentsline {subsection}{\numberline {10.4}Time Management and Project Planning}{19}{}%
+\contentsline {subsection}{\numberline {10.2}Problem-Solving and Debugging}{18}{}%
+\contentsline {subsection}{\numberline {10.3}Collaboration and Communication}{18}{}%
+\contentsline {subsection}{\numberline {10.4}Time Management and Project Planning}{18}{}%
 \contentsline {subsection}{\numberline {10.5}References}{19}{}%
-\contentsline {subsection}{\numberline {10.6}Chapter 8 - Observations and Reflections}{21}{}%
-\contentsline {subsection}{\numberline {10.7}Industry Practices and Standards}{21}{}%
-\contentsline {subsection}{\numberline {10.8}Personal Growth and Development}{22}{}%
-\contentsline {subsection}{\numberline {10.9}Feedback and Mentorship}{22}{}%
-\contentsline {section}{\numberline {11}Industry Trends and Future Technologies}{23}{}%
-\contentsline {subsection}{\numberline {11.1}Current Trends in Web Development}{23}{}%
-\contentsline {subsection}{\numberline {11.2}AI in Web Development}{24}{}%
-\contentsline {subsection}{\numberline {11.3}Cloud Computing and DevOps}{24}{}%
-\contentsline {subsection}{\numberline {11.4}Security Practices in Web Development}{24}{}%
-\contentsline {subsection}{\numberline {11.5}Future Directions in Technology}{25}{}%
-\contentsline {section}{\numberline {12}Conclusion}{26}{}%
-\contentsline {subsection}{\numberline {12.1}Technical Mastery and Application}{26}{}%
-\contentsline {subsection}{\numberline {12.2}Personal Development and Professional Growth}{26}{}%
-\contentsline {subsection}{\numberline {12.3}Industry Relevance and Future Implications}{27}{}%
-\contentsline {subsection}{\numberline {12.4}Reflecting on Challenges and Risk Management}{27}{}%
-\contentsline {subsection}{\numberline {12.5}Final Reflections}{27}{}%
-\contentsline {section}{\numberline {13}References}{32}{}%
+\contentsline {subsection}{\numberline {10.6}Chapter 8 - Observations and Reflections}{20}{}%
+\contentsline {subsection}{\numberline {10.7}Industry Practices and Standards}{20}{}%
+\contentsline {subsection}{\numberline {10.8}Personal Growth and Development}{20}{}%
+\contentsline {subsection}{\numberline {10.9}Feedback and Mentorship}{20}{}%
+\contentsline {section}{\numberline {11}Industry Trends and Future Technologies}{21}{}%
+\contentsline {subsection}{\numberline {11.1}Current Trends in Web Development}{21}{}%
+\contentsline {subsection}{\numberline {11.2}AI in Web Development}{21}{}%
+\contentsline {subsection}{\numberline {11.3}Cloud Computing and DevOps}{21}{}%
+\contentsline {subsection}{\numberline {11.4}Security Practices in Web Development}{22}{}%
+\contentsline {subsection}{\numberline {11.5}Future Directions in Technology}{22}{}%
+\contentsline {section}{\numberline {12}Conclusion}{23}{}%
+\contentsline {subsection}{\numberline {12.1}Technical Mastery and Application}{23}{}%
+\contentsline {subsection}{\numberline {12.2}Personal Development and Professional Growth}{23}{}%
+\contentsline {subsection}{\numberline {12.3}Industry Relevance and Future Implications}{24}{}%
+\contentsline {subsection}{\numberline {12.4}Reflecting on Challenges and Risk Management}{24}{}%
+\contentsline {subsection}{\numberline {12.5}Final Reflections}{24}{}%
+\contentsline {section}{\numberline {13}References}{26}{}%

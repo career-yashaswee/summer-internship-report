@@ -1426,3 +1426,423 @@ parent={},%
 %
 }%
 
+\glsdefs@newdocentry{MongoDB}%
+{%
+name={\acronymfont {\glsentryshort {MongoDB}}},%
+sort={MongoDB},%
+type={acronym},%
+first={MongoDB},%
+firstplural={MongoDBs},%
+text={MongoDB},%
+plural={MongoDBs},%
+description={A NoSQL database program that uses JSON-like documents with optional schemas},%
+descriptionplural={A NoSQL database program that uses JSON-like documents with optional schemas},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A NoSQL database program that uses JSON-like documents with optional schemas},%
+longplural={A NoSQL database program that uses JSON-like documents with optional schemass},%
+short={MongoDB},%
+shortplural={MongoDBs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Express.js}%
+{%
+name={\acronymfont {\glsentryshort {Express.js}}},%
+sort={Express.js},%
+type={acronym},%
+first={Express.js},%
+firstplural={Express.jss},%
+text={Express.js},%
+plural={Express.jss},%
+description={A web application framework for Node.js, designed for building web applications and APIs},%
+descriptionplural={A web application framework for Node.js, designed for building web applications and APIs},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A web application framework for Node.js, designed for building web applications and APIs},%
+longplural={A web application framework for Node.js, designed for building web applications and APIss},%
+short={Express.js},%
+shortplural={Express.jss},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{React}%
+{%
+name={\acronymfont {\glsentryshort {React}}},%
+sort={React},%
+type={acronym},%
+first={React},%
+firstplural={Reacts},%
+text={React},%
+plural={Reacts},%
+description={A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies},%
+descriptionplural={A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companies},%
+longplural={A JavaScript library for building user interfaces, maintained by Facebook and a community of individual developers and companiess},%
+short={React},%
+shortplural={Reacts},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Node.js}%
+{%
+name={\acronymfont {\glsentryshort {Node.js}}},%
+sort={Node.js},%
+type={acronym},%
+first={Node.js},%
+firstplural={Node.jss},%
+text={Node.js},%
+plural={Node.jss},%
+description={A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications},%
+descriptionplural={A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applications},%
+longplural={A JavaScript runtime built on Chrome's V8 JavaScript engine, designed to build scalable network applicationss},%
+short={Node.js},%
+shortplural={Node.jss},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{GoogleCloud}%
+{%
+name={\acronymfont {\glsentryshort {GoogleCloud}}},%
+sort={Google Cloud},%
+type={acronym},%
+first={Google Cloud},%
+firstplural={Google Clouds},%
+text={Google Cloud},%
+plural={Google Clouds},%
+description={A suite of cloud computing services offered by Google, providing services like computing, data storage, data analytics, and machine learning},%
+descriptionplural={A suite of cloud computing services offered by Google, providing services like computing, data storage, data analytics, and machine learning},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A suite of cloud computing services offered by Google, providing services like computing, data storage, data analytics, and machine learning},%
+longplural={A suite of cloud computing services offered by Google, providing services like computing, data storage, data analytics, and machine learnings},%
+short={Google Cloud},%
+shortplural={Google Clouds},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{oauth}%
+{%
+name={\acronymfont {\glsentryshort {oauth}}},%
+sort={OAuth},%
+type={acronym},%
+first={OAuth},%
+firstplural={OAuths},%
+text={OAuth},%
+plural={OAuths},%
+description={Open Authorization, a standard for token-based authentication and authorization},%
+descriptionplural={Open Authorization, a standard for token-based authentication and authorization},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Open Authorization, a standard for token-based authentication and authorization},%
+longplural={Open Authorization, a standard for token-based authentication and authorizations},%
+short={OAuth},%
+shortplural={OAuths},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{devops}%
+{%
+name={\acronymfont {\glsentryshort {devops}}},%
+sort={DevOps},%
+type={acronym},%
+first={DevOps},%
+firstplural={DevOpss},%
+text={DevOps},%
+plural={DevOpss},%
+description={A set of practices that combines software development (Dev) and IT operations (Ops)},%
+descriptionplural={A set of practices that combines software development (Dev) and IT operations (Ops)},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A set of practices that combines software development (Dev) and IT operations (Ops)},%
+longplural={A set of practices that combines software development (Dev) and IT operations (Ops)s},%
+short={DevOps},%
+shortplural={DevOpss},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{gdpr}%
+{%
+name={\acronymfont {\glsentryshort {gdpr}}},%
+sort={GDPR},%
+type={acronym},%
+first={GDPR},%
+firstplural={GDPRs},%
+text={GDPR},%
+plural={GDPRs},%
+description={General Data Protection Regulation, a regulation in EU law on data protection and privacy},%
+descriptionplural={General Data Protection Regulation, a regulation in EU law on data protection and privacy},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={General Data Protection Regulation, a regulation in EU law on data protection and privacy},%
+longplural={General Data Protection Regulation, a regulation in EU law on data protection and privacys},%
+short={GDPR},%
+shortplural={GDPRs},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Google}%
+{%
+name={\acronymfont {\glsentryshort {Google}}},%
+sort={Google},%
+type={acronym},%
+first={Google},%
+firstplural={Googles},%
+text={Google},%
+plural={Googles},%
+description={A multinational technology company specializing in Internet-related services and products},%
+descriptionplural={A multinational technology company specializing in Internet-related services and products},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A multinational technology company specializing in Internet-related services and products},%
+longplural={A multinational technology company specializing in Internet-related services and productss},%
+short={Google},%
+shortplural={Googles},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{Gemini}%
+{%
+name={\acronymfont {\glsentryshort {Gemini}}},%
+sort={Gemini},%
+type={acronym},%
+first={Gemini},%
+firstplural={Geminis},%
+text={Gemini},%
+plural={Geminis},%
+description={A project by Google focusing on AI and machine learning},%
+descriptionplural={A project by Google focusing on AI and machine learning},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A project by Google focusing on AI and machine learning},%
+longplural={A project by Google focusing on AI and machine learnings},%
+short={Gemini},%
+shortplural={Geminis},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{machinelearning}%
+{%
+name={\acronymfont {\glsentryshort {machinelearning}}},%
+sort={Machine Learning},%
+type={acronym},%
+first={Machine Learning},%
+firstplural={Machine Learnings},%
+text={Machine Learning},%
+plural={Machine Learnings},%
+description={A field of artificial intelligence that uses algorithms to allow computers to learn from data},%
+descriptionplural={A field of artificial intelligence that uses algorithms to allow computers to learn from data},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A field of artificial intelligence that uses algorithms to allow computers to learn from data},%
+longplural={A field of artificial intelligence that uses algorithms to allow computers to learn from datas},%
+short={Machine Learning},%
+shortplural={Machine Learnings},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{googlecloud}%
+{%
+name={\acronymfont {\glsentryshort {googlecloud}}},%
+sort={Google Cloud},%
+type={acronym},%
+first={Google Cloud},%
+firstplural={Google Clouds},%
+text={Google Cloud},%
+plural={Google Clouds},%
+description={A suite of cloud computing services offered by Google},%
+descriptionplural={A suite of cloud computing services offered by Google},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={A suite of cloud computing services offered by Google},%
+longplural={A suite of cloud computing services offered by Googles},%
+short={Google Cloud},%
+shortplural={Google Clouds},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{OAuth}%
+{%
+name={\acronymfont {\glsentryshort {OAuth}}},%
+sort={OAuth},%
+type={acronym},%
+first={OAuth},%
+firstplural={OAuths},%
+text={OAuth},%
+plural={OAuths},%
+description={OAuth},%
+descriptionplural={OAuth},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={OAuth},%
+longplural={OAuths},%
+short={OAuth},%
+shortplural={OAuths},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{DevOps}%
+{%
+name={\acronymfont {\glsentryshort {DevOps}}},%
+sort={DevOps},%
+type={acronym},%
+first={DevOps},%
+firstplural={DevOpss},%
+text={DevOps},%
+plural={DevOpss},%
+description={DevOps},%
+descriptionplural={DevOps},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={DevOps},%
+longplural={DevOpss},%
+short={DevOps},%
+shortplural={DevOpss},%
+counter={page},%
+parent={},%
+%
+}%
+
+\glsdefs@newdocentry{GDPR}%
+{%
+name={\acronymfont {\glsentryshort {GDPR}}},%
+sort={GDPR},%
+type={acronym},%
+first={GDPR},%
+firstplural={GDPRs},%
+text={GDPR},%
+plural={GDPRs},%
+description={GDPR},%
+descriptionplural={GDPR},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={GDPR},%
+longplural={GDPRs},%
+short={GDPR},%
+shortplural={GDPRs},%
+counter={page},%
+parent={},%
+%
+}%
+

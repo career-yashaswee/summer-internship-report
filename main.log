@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  27 AUG 2024 12:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.25)  28 AUG 2024 11:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -418,50 +418,80 @@ File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 Package: chngcntr 2018/04/09 v1.1a change counter resetting
 Package chngcntr Info: \counterwithout already defined.
 (chngcntr)             Quitting chngcntr on input line 21.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen182
+\lightrulewidth=\dimen183
+\cmidrulewidth=\dimen184
+\belowrulesep=\dimen185
+\belowbottomsep=\dimen186
+\aboverulesep=\dimen187
+\abovetopsep=\dimen188
+\cmidrulesep=\dimen189
+\cmidrulekern=\dimen190
+\defaultaddspace=\dimen191
+\@cmidla=\count321
+\@cmidlb=\count322
+\@aboverulesep=\dimen192
+\@belowrulesep=\dimen193
+\@thisruleclass=\count323
+\@lastruleclass=\count324
+\@thisrulewidth=\dimen194
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen195
+\captionmargin=\dimen196
+\caption@leftmargin=\dimen197
+\caption@rightmargin=\dimen198
+\caption@width=\dimen199
+\caption@indent=\dimen256
+\caption@parindent=\dimen257
+\caption@hangindent=\dimen258
+Package caption Info: Standard document class detected.
 )
-\glswrite=\write3
-\glo@main@file=\write4
-\openout4 = `main.glo'.
-
-Package glossaries Info: Writing glossary file main.glo on input line 14.
-\glo@acronym@file=\write5
-\openout5 = `main.acn'.
-
-Package glossaries Info: Writing glossary file main.acn on input line 14.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+\c@caption@flags=\count325
+\c@continuedfloat=\count326
+Package caption Info: longtable package is loaded.
+ (/usr/local/texlive/2024/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: supertabular package is loaded.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count321
+\l__color_backend_stack_int=\count327
 \l__pdf_internal_box=\box107
 )
 No file main.aux.
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 (/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count322
-\scratchdimen=\dimen182
+\scratchcounter=\count328
+\scratchdimen=\dimen259
 \scratchbox=\box108
-\nofMPsegments=\count323
-\nofMParguments=\count324
+\nofMPsegments=\count329
+\nofMParguments=\count330
 \everyMPshowfont=\toks38
-\MPscratchCnt=\count325
-\MPscratchDim=\dimen183
-\MPnumerator=\count326
-\makeMPintoPDFobject=\count327
+\MPscratchCnt=\count331
+\MPscratchDim=\dimen260
+\MPnumerator=\count332
+\makeMPintoPDFobject=\count333
 \everyMPtoPDFconversion=\toks39
 ) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -504,33 +534,34 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (./main.glsdefs)
-LaTeX Info: Redefining \microtypecontext on input line 17.
-Package microtype Info: Applying patch `item' on input line 17.
-Package microtype Info: Applying patch `toc' on input line 17.
-Package microtype Info: Applying patch `eqnum' on input line 17.
-Package microtype Info: Applying patch `footnote' on input line 17.
-Package microtype Info: Applying patch `verbatim' on input line 17.
+LaTeX Info: Redefining \microtypecontext on input line 23.
+Package microtype Info: Applying patch `item' on input line 23.
+Package microtype Info: Applying patch `toc' on input line 23.
+Package microtype Info: Applying patch `eqnum' on input line 23.
+Package microtype Info: Applying patch `footnote' on input line 23.
+Package microtype Info: Applying patch `verbatim' on input line 23.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 17.
+LaTeX Info: Redefining \showhyphens on input line 23.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-) (./cover/cover.tex
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+ (./cover/cover.tex
 <cover/lpu.png, id=1, 2487.2925pt x 872.25874pt>
 File: cover/lpu.png Graphic file (type png)
 <use cover/lpu.png>
 Package pdftex.def Info: cover/lpu.png  used on input line 24.
 (pdftex.def)             Requested size: 167.21855pt x 58.6287pt.
  [1
-
-\openout3 = `main.ist'.
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./cover/lpu.png>]) (./declaration.tex
 <assets/sign.jpg, id=15, 1133.23375pt x 820.06375pt>
@@ -540,8 +571,8 @@ Package pdftex.def Info: assets/sign.jpg  used on input line 24.
 (pdftex.def)             Requested size: 167.21855pt x 121.00215pt.
  [1 <./assets/sign.jpg>])
 No file main.toc.
-\tf@toc=\write6
-\openout6 = `main.toc'.
+\tf@toc=\write3
+\openout3 = `main.toc'.
 
 [1] (./certificate.tex
 <assets/certificate.png, id=23, 845.0772pt x 597.6729pt>
@@ -555,18 +586,814 @@ LaTeX Font Warning: Font shape `OT1/cmr/m/scit' undefined
 (Font)              using `OT1/cmr/m/sc' instead on input line 14.
 
 ) [3] (./chapters/abbreviation.tex
-\@gls@deffile=\write7
-\openout7 = `main.glsdefs'.
+
+./chapters/abbreviation.tex:3: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \newacronym{AI}{AI}{Artificial Intelligence}
+                                                
+Either move your definitions to the preamble or use \makeglossaries
 
 
-No file main.acr.
-) [4] (./chapters/chapter_1.tex
+./chapters/abbreviation.tex:4: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.4 ...PI}{API}{Application Programming Interface}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:5: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ...}{Computer-Assisted Pronunciation Training}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:6: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.6 ...CGPA}{CGPA}{Cumulative Grade Point Average}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:7: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \newacronym{HR}{HR}{Human Resources}
+                                        
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:8: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \newacronym{IT}{IT}{Information Technology}
+                                               
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:9: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \newacronym{JWT}{JWT}{JSON Web Token}
+                                         
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:10: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...MERN}{MongoDB, Express.js, React, Node.js}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:11: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.11 ...RPO}{RPO}{Recruitment Process Outsourcing}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:12: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...cronym{SDK}{SDK}{Software Development Kit}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:13: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...acronym{SaaS}{SaaS}{Software as a Service}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:14: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 \newacronym{UI}{UI}{User Interface}
+                                        
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:15: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \newacronym{UX}{UX}{User Experience}
+                                         
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:16: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...onym{SEO}{SEO}{Search Engine Optimization}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:17: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...ronym{KPI}{KPI}{Key Performance Indicator}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:18: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...RM}{CRM}{Customer Relationship Management}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:19: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 ...acronym{TDD}{TDD}{Test-Driven Development}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:20: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.20 ...nym{BDD}{BDD}{Behavior-Driven Development}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:21: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \newacronym{CI}{CI}{Continuous Integration}
+                                                
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:22: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22 \newacronym{CD}{CD}{Continuous Deployment}
+                                               
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:23: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 \newacronym{MVC}{MVC}{Model-View-Controller}
+                                                 
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:24: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 ...ronym{ORM}{ORM}{Object-Relational Mapping}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:25: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25 ...m{HTTP}{HTTP}{HyperText Transfer Protocol}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:26: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...HTTPS}{HyperText Transfer Protocol Secure}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:27: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \newacronym{DNS}{DNS}{Domain Name System}
+                                              
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:28: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 \newacronym{IP}{IP}{Internet Protocol}
+                                           
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:29: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29 ...m{TCP}{TCP}{Transmission Control Protocol}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:30: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 \newacronym{UDP}{UDP}{User Datagram Protocol}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:31: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \newacronym{FTP}{FTP}{File Transfer Protocol}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:32: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \newacronym{SSH}{SSH}{Secure Shell}
+                                        
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:33: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...ym{JSON}{JSON}{JavaScript Object Notation}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:34: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 ...onym{XML}{XML}{eXtensible Markup Language}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:35: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.35 \newacronym{CSS}{CSS}{Cascading Style Sheets}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:36: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 ...nym{HTML}{HTML}{HyperText Markup Language}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:37: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 ...ronym{SQL}{SQL}{Structured Query Language}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:38: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \newacronym{NoSQL}{NoSQL}{Not Only SQL}
+                                            
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:39: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 ...{CRUD}{CRUD}{Create, Read, Update, Delete}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:40: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 ...ST}{REST}{Representational State Transfer}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:41: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 ...SOAP}{SOAP}{Simple Object Access Protocol}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:42: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \newacronym{IoT}{IoT}{Internet of Things}
+                                              
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:43: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.43 \newacronym{ML}{ML}{Machine Learning}
+                                          
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:44: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.44 \newacronym{DL}{DL}{Deep Learning}
+                                       
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:45: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.45 ...nym{NLP}{NLP}{Natural Language Processing}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:46: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.46 ...cronym{GPU}{GPU}{Graphics Processing Unit}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:47: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.47 ...acronym{CPU}{CPU}{Central Processing Unit}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:48: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.48 \newacronym{RAM}{RAM}{Random Access Memory}
+                                                
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:49: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.49 \newacronym{SSD}{SSD}{Solid-State Drive}
+                                             
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:50: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50 \newacronym{BI}{BI}{Business Intelligence}
+                                               
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:51: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...cronym{ETL}{ETL}{Extract, Transform, Load}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:52: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 ...nym{OOP}{OOP}{Object-Oriented Programming}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:53: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53 \newacronym{MVP}{MVP}{Minimum Viable Product}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:54: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54 ...JSON-like documents with optional schemas}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:55: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 ...ed for building web applications and APIs}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:56: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 ...ty of individual developers and companies}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:57: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.57 ...ed to build scalable network applications}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:59: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 ...age, data analytics, and machine learning}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:64: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.64 ...en-based authentication and authorization}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:65: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.65 ...development (Dev) and IT operations (Ops)}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:66: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 ... in EU law on data protection and privacy}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:67: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 ...in Internet-related services and products}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:68: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68 ...oogle focusing on AI and machine learning}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:69: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...hms to allow computers to learn from data}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:70: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 ...loud computing services offered by Google}
+                                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:72: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.72 \newacronym{OAuth}{OAuth}{OAuth}
+                                     
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:73: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.73 \newacronym{DevOps}{DevOps}{DevOps}
+                                        
+Either move your definitions to the preamble or use \makeglossaries
+
+
+./chapters/abbreviation.tex:74: Package glossaries Error: Glossary entries must be defined in the preamble
+when you use \makenoidxglossaries.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 \newacronym{GDPR}{GDPR}{GDPR}
+                                  
+Either move your definitions to the preamble or use \makeglossaries
+
+./chapters/abbreviation.tex:77: Undefined control sequence.
+l.77 \pprintnoidxglossaries
+                           [type=\acronymtype,title={List of Abbreviations}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) (./chapters/chapter_1.tex [4]
 Underfull \hbox (badness 10000) in paragraph at lines 9--11
 
  []
 
 [5{/usr/local/texlive/2024/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) [6] (./chapters/chapter_2.tex
-<assets/w3elites-end-to-end.png, id=41, 870.25125pt x 738.76pt>
+<assets/w3elites-end-to-end.png, id=42, 870.25125pt x 738.76pt>
 File: assets/w3elites-end-to-end.png Graphic file (type png)
 <use assets/w3elites-end-to-end.png>
 Package pdftex.def Info: assets/w3elites-end-to-end.png  used on input line 12.
@@ -596,77 +1423,16 @@ Overfull \hbox (409.43944pt too wide) in paragraph at lines 16--35
  [][] 
  []
 
-
-LaTeX Warning: File `mern_stack_architecture.png' not found on input line 42.
-
-
-./chapters/chapter_4.tex:42: Package pdftex.def Error: File `mern_stack_architecture.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.42 ...[width=0.8cm]{mern_stack_architecture.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[11]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-
-LaTeX Warning: File `react_component_structure.png' not found on input line 55.
-
-
-./chapters/chapter_4.tex:55: Package pdftex.def Error: File `react_component_structure.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 ...idth=0.8cm]{react_component_structure.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[11]
-
-LaTeX Warning: File `deployment_architecture.png' not found on input line 91.
-
-
-./chapters/chapter_4.tex:91: Package pdftex.def Error: File `deployment_architecture.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.91 ...[width=0.8cm]{deployment_architecture.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[12]) [13] (./chapters/chapter_5.tex
+ [12]) [13] (./chapters/chapter_5.tex
 
 LaTeX Warning: Citation `russell2016artificial' on page 14 undefined on input line 4.
 
-[14]
-
-LaTeX Warning: File `ai_integration_diagram.png' not found on input line 46.
-
-
-./chapters/chapter_5.tex:46: Package pdftex.def Error: File `ai_integration_diagram.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.46 ...s[width=1.0cm]{ai_integration_diagram.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-) [15] (./chapters/chapter_6.tex
+[14]) [15] (./chapters/chapter_6.tex
 
 LaTeX Warning: Citation `sommerville2011software' on page 16 undefined on input line 4.
 
@@ -698,432 +1464,96 @@ LaTeX Warning: Citation `roberts2015scaling' on page 17 undefined on input line 
 
 LaTeX Warning: Citation `harris2016backup' on page 17 undefined on input line 38.
 
-
-LaTeX Warning: File `deployment_steps.png' not found on input line 49.
-
-
-./chapters/chapter_6.tex:49: Package pdftex.def Error: File `deployment_steps.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 ...raphics[width=1.0cm]{deployment_steps.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 ) [17] (./chapters/chapter_7.tex
-
-./chapters/chapter_7.tex:3: Package glossaries Error: Glossary entry `MongoDB' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 ...t with the \gls{MERN} stack (\gls{MongoDB},
-                                                   \gls{Express.js}, \gls{Re...
-You need to define a glossary entry before you can use it.
-
-
-./chapters/chapter_7.tex:3: Package glossaries Error: Glossary entry `Express.js' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 ...RN} stack (\gls{MongoDB}, \gls{Express.js},
-                                                   \gls{React}, \gls{Node.js...
-You need to define a glossary entry before you can use it.
-
-
-./chapters/chapter_7.tex:3: Package glossaries Error: Glossary entry `React' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 ...ls{MongoDB}, \gls{Express.js}, \gls{React},
-                                                   \gls{Node.js}) facilitate...
-You need to define a glossary entry before you can use it.
-
-
-./chapters/chapter_7.tex:3: Package glossaries Error: Glossary entry `Node.js' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 ...ls{Express.js}, \gls{React}, \gls{Node.js})
-                                                   facilitated a robust unde...
-You need to define a glossary entry before you can use it.
-
-
-./chapters/chapter_7.tex:3: Package glossaries Error: Glossary entry `machinelearning' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.3 ...ted a deep dive into \gls{machinelearning} 
-                                                  algorithms, honing the abi...
-You need to define a glossary entry before you can use it.
-
-
-LaTeX Warning: File `assets/technical_skills.png' not found on input line 9.
-
-
-./chapters/chapter_7.tex:9: Package pdftex.def Error: File `assets/technical_skills.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...0.8\textwidth]{assets/technical_skills.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-./chapters/chapter_7.tex:15: Package glossaries Error: Glossary entry `Node.js' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...ic, particularly within the \gls{Node.js} 
-                                                  environment, to identify a...
-You need to define a glossary entry before you can use it.
-
-[18]
-
-./chapters/chapter_7.tex:17: Package glossaries Error: Glossary entry `GoogleCloud' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.17 ...rd-party APIs, like the \gls{GoogleCloud} 
-                                                  services, presented unique...
-You need to define a glossary entry before you can use it.
-
-
-LaTeX Warning: File `assets/project_timeline.png' not found on input line 48.
-
-
-./chapters/chapter_7.tex:48: Package pdftex.def Error: File `assets/project_timeline.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 ....8\textwidth]{assets/project_timeline.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[19]) [20] (./chapters/chapter_8.tex
+[18]) [19] (./chapters/chapter_8.tex) [20] (./chapters/chapter_9.tex
 
-./chapters/chapter_8.tex:4: Package glossaries Error: Glossary entry `DevOps' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.4 ...amount. The implementation of \gls{DevOps} 
-                                                  methodologies, particularl...
-You need to define a glossary entry before you can use it.
+LaTeX Warning: Citation `zhao2018progressive' on page 21 undefined on input line 4.
 
 
-./chapters/chapter_8.tex:6: Package glossaries Error: Glossary entry `OAuth' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...ive data through \gls{JWT} and \gls{OAuth} 
-                                                  protocols. Regular code re...
-You need to define a glossary entry before you can use it.
+LaTeX Warning: Citation `jamstack2020' on page 21 undefined on input line 6.
 
 
-./chapters/chapter_8.tex:6: Package glossaries Error: Glossary entry `GDPR' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...ject also adhered to the latest \gls{GDPR} 
-                                                  compliance requirements, e...
-You need to define a glossary entry before you can use it.
+LaTeX Warning: Citation `wasm2019' on page 21 undefined on input line 6.
 
 
-LaTeX Warning: File `assets/industry_practices.png' not found on input line 10.
+LaTeX Warning: Citation `miller2021ai' on page 21 undefined on input line 16.
 
 
-./chapters/chapter_8.tex:10: Package pdftex.def Error: File `assets/industry_practices.png' not found: using draft setting.
+LaTeX Warning: Citation `nielsen2022nlp' on page 21 undefined on input line 16.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.10 ...\textwidth]{assets/industry_practices.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+
+LaTeX Warning: Citation `jones2023personalization' on page 21 undefined on input line 18.
+
+
+LaTeX Warning: Citation `li2021cybersecurity' on page 21 undefined on input line 18.
+
+
+LaTeX Warning: Citation `smith2020microservices' on page 21 undefined on input line 28.
+
+
+LaTeX Warning: Citation `johnson2021cloud' on page 21 undefined on input line 28.
+
+
+LaTeX Warning: Citation `martin2022devops' on page 21 undefined on input line 30.
+
+
+LaTeX Warning: Citation `brown2023iac' on page 21 undefined on input line 30.
+
+
+LaTeX Warning: Citation `adams2021zerotrust' on page 21 undefined on input line 48.
+
+
+LaTeX Warning: Citation `lee2022security' on page 21 undefined on input line 48.
 
 [21]
 
-LaTeX Warning: File `assets/feedback_mentorship.png' not found on input line 29.
+LaTeX Warning: Citation `kim2021encryption' on page 22 undefined on input line 50.
 
 
-./chapters/chapter_8.tex:29: Package pdftex.def Error: File `assets/feedback_mentorship.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...textwidth]{assets/feedback_mentorship.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+LaTeX Warning: Citation `garcia2023secure' on page 22 undefined on input line 50.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [22] (./chapters/chapter_9.tex
-
-LaTeX Warning: Citation `zhao2018progressive' on page 23 undefined on input line 4.
+LaTeX Warning: Citation `wang2021testing' on page 22 undefined on input line 50.
 
 
-LaTeX Warning: Citation `jamstack2020' on page 23 undefined on input line 6.
+LaTeX Warning: Citation `miller2022quantum' on page 22 undefined on input line 60.
 
 
-LaTeX Warning: Citation `wasm2019' on page 23 undefined on input line 6.
+LaTeX Warning: Citation `doe2023fiveg' on page 22 undefined on input line 62.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Citation `white2021web3' on page 22 undefined on input line 64.
+
+)) [22] (./chapters/conclusion.tex
+
+LaTeX Warning: Reference `fig:architecture_diagram' on page 23 undefined on input line 5.
 
 
-LaTeX Warning: Citation `miller2021ai' on page 23 undefined on input line 16.
+LaTeX Warning: Reference `tab:security_measures' on page 23 undefined on input line 16.
 
 
-LaTeX Warning: Citation `nielsen2022nlp' on page 23 undefined on input line 16.
+LaTeX Warning: Reference `fig:scrum_meetings' on page 23 undefined on input line 36.
+
+
+LaTeX Warning: Reference `fig:ci_cd_pipeline' on page 23 undefined on input line 48.
 
 [23]
 
-LaTeX Warning: Citation `jones2023personalization' on page 24 undefined on input line 18.
+LaTeX Warning: Reference `tab:future_directions' on page 24 undefined on input line 59.
 
 
-LaTeX Warning: Citation `li2021cybersecurity' on page 24 undefined on input line 18.
+LaTeX Warning: Reference `tab:risk_management' on page 24 undefined on input line 79.
 
+[24]) [25] (./chapters/references.tex) [26]
 
-LaTeX Warning: Citation `smith2020microservices' on page 24 undefined on input line 28.
+Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
+ found. (Remove \makenoidxglossaries if you don't want any glossaries.)
+This document will not have a glossary.
 
-
-LaTeX Warning: Citation `johnson2021cloud' on page 24 undefined on input line 28.
-
-
-LaTeX Warning: Citation `martin2022devops' on page 24 undefined on input line 30.
-
-
-LaTeX Warning: Citation `brown2023iac' on page 24 undefined on input line 30.
-
-./chapters/chapter_9.tex:36: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.36 ... Tools} & \textbf{Microservices Support} &
-                                                   \textbf{IaC Capabilities}...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./chapters/chapter_9.tex:38: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.38         AWS & CodePipeline, CodeBuild & Yes &
-                                                   Terraform, CloudFormation...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./chapters/chapter_9.tex:39: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.39 ...   Azure & Azure DevOps, Pipelines & Yes &
-                                                   Terraform, Azure Resource...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-./chapters/chapter_9.tex:40: Extra alignment tab has been changed to \cr.
-<recently read> \endtemplate 
-                             
-l.40 ... Cloud & Cloud Build, Cloud Deploy & Yes &
-                                                   Terraform, Deployment Man...
-You have given more \span or & marks than there were
-in the preamble to the \halign or \valign now in progress.
-So I'll assume that you meant to type \cr instead.
-
-
-LaTeX Warning: Citation `adams2021zerotrust' on page 24 undefined on input line 48.
-
-
-LaTeX Warning: Citation `lee2022security' on page 24 undefined on input line 48.
-
-
-LaTeX Warning: Citation `kim2021encryption' on page 24 undefined on input line 50.
-
-
-LaTeX Warning: Citation `garcia2023secure' on page 24 undefined on input line 50.
-
-
-LaTeX Warning: Citation `wang2021testing' on page 24 undefined on input line 50.
-
-[24]
-
-LaTeX Warning: Citation `miller2022quantum' on page 25 undefined on input line 60.
-
-
-LaTeX Warning: Citation `doe2023fiveg' on page 25 undefined on input line 62.
-
-
-LaTeX Warning: Citation `white2021web3' on page 25 undefined on input line 64.
-
-) [25] (./chapters/conclusion.tex
-
-LaTeX Warning: Reference `fig:architecture_diagram' on page 26 undefined on input line 5.
-
-
-LaTeX Warning: File `assets/architecture_diagram.png' not found on input line 9.
-
-
-./chapters/conclusion.tex:9: Package pdftex.def Error: File `assets/architecture_diagram.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.9 ...textwidth]{assets/architecture_diagram.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-./chapters/conclusion.tex:14: Package glossaries Error: Glossary entry `OAuth' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 ...cation and the utilization of \gls{OAuth} 
-                                                  protocols further reinforc...
-You need to define a glossary entry before you can use it.
-
-
-LaTeX Warning: Reference `tab:security_measures' on page 26 undefined on input line 16.
-
-
-LaTeX Warning: Reference `fig:scrum_meetings' on page 26 undefined on input line 36.
-
-
-LaTeX Warning: File `assets/scrum_meetings.png' not found on input line 40.
-
-
-./chapters/conclusion.tex:40: Package pdftex.def Error: File `assets/scrum_meetings.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.40 ...=0.9\textwidth]{assets/scrum_meetings.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-./chapters/conclusion.tex:48: Package glossaries Error: Glossary entry `DevOps' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 ...articularly in the realms of \gls{DevOps},
-                                                   \gls{GDPR} compliance, an...
-You need to define a glossary entry before you can use it.
-
-
-./chapters/conclusion.tex:48: Package glossaries Error: Glossary entry `GDPR' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.48 ...in the realms of \gls{DevOps}, \gls{GDPR} 
-                                                  compliance, and secure cod...
-You need to define a glossary entry before you can use it.
-
-
-LaTeX Warning: Reference `fig:ci_cd_pipeline' on page 26 undefined on input line 48.
-
-[26]
-
-LaTeX Warning: File `assets/ci_cd_pipeline.png' not found on input line 52.
-
-
-./chapters/conclusion.tex:52: Package pdftex.def Error: File `assets/ci_cd_pipeline.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.52 ...=0.9\textwidth]{assets/ci_cd_pipeline.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `tab:future_directions' on page 27 undefined on input line 59.
-
-
-./chapters/conclusion.tex:79: Package glossaries Error: Glossary entry `Google' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 ... associated with testing the \gls{Google} 
-                                                  \gls{Gemini} \gls{API} SDK...
-You need to define a glossary entry before you can use it.
-
-
-./chapters/conclusion.tex:79: Package glossaries Error: Glossary entry `Gemini' has not been defined.
-
-See the glossaries package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 ...ith testing the \gls{Google} \gls{Gemini} 
-                                                  \gls{API} SDK, as detailed...
-You need to define a glossary entry before you can use it.
-
-
-LaTeX Warning: Reference `tab:risk_management' on page 27 undefined on input line 79.
-
-[27]) [28] (./chapters/references.tex [29] [30] [31])) [32
-
-] (./main.aux)
+(./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1137,18 +1567,18 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 12172 strings out of 474116
- 202432 string characters out of 5743682
+ 13678 strings out of 474116
+ 224919 string characters out of 5743682
  1946187 words of memory out of 5000000
- 34056 multiletter control sequences out of 15000+600000
- 576108 words of font info for 207 fonts, out of 8000000 for 9000
+ 35569 multiletter control sequences out of 15000+600000
+ 572622 words of font info for 191 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 94i,10n,93p,2463b,388s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on main.pdf (34 pages, 1991574 bytes).
+ 94i,10n,117p,2463b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (28 pages, 1975272 bytes).
 PDF statistics:
- 183 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
+ 158 PDF objects out of 1000 (max. 8388607)
+ 98 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 48154 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 43546 words of extra memory for PDF output out of 51595 (max. 10000000)
 

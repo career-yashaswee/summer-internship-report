@@ -11,7 +11,13 @@
 \usepackage[acronym]{glossaries}
 \usepackage{microtype}
 \usepackage{chngcntr}
-\makeglossaries
+\usepackage{booktabs}
+\usepackage{caption}
+\makenoidxglossaries
+
+\captionsetup[table]
+{labelformat=simple, labelsep=colon, font=small, justification=centering}
+
 \geometry{left=1cm, right=1cm, top=1cm, bottom=2cm}
 
 \begin{document}
@@ -24,5 +30,9 @@
     \input{certificate}
     \pagebreak
     \input{chapters/chapters}
+    \pagebreak
+    \input{chapters/conclusion}
+    \pagebreak
+    \input{chapters/references}
     \pagebreak
 \end{document}
